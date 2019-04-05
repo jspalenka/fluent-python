@@ -19,7 +19,6 @@ __pycache__/
 # ignore all .ipynb_checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-*.ipynb
 
 # log files
 *.log
