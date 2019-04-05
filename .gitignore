@@ -1,0 +1,42 @@
+# ignore R related files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Reformer_Report.nb.html
+Reformer_Report.Rmd
+FCC_Report.nb.html
+FCC_Report.Rmd
+Coker_Report.Rmd
+
+# HTML related output files
+*.html
+
+# ignore all __pycache__ files
+*.pyc
+__pycache__/
+
+# ignore all .ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb
+
+# log files
+*.log
+
+# Environments
+.env
+.venv
+env/
+src/env
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS code settings
+.spyproject/
+.vscode/
+
+# Pycharm
+.idea/
